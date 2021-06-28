@@ -59,7 +59,7 @@ print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
 
 
 #output txt file
-output_file = os.path.join("/Users/rosaligonzalez/Desktop/Python/PyBank/Analysis/output.txt")
+output_file = os.path.join("Analysis", "output.txt")
 with open(output_file, "w", newline="") as datafile:
     datafile.write('======================================================\n')
     datafile.write('|                  Election Results                  |\n')
