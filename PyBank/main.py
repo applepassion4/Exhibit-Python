@@ -4,7 +4,7 @@ import os
 import csv
 
 # Set path for files
-csvpath = os.path.join("/Users/rosaligonzalez/Desktop/Python/PyBank/Resources/budget_data.csv")
+csvpath = os.path.join('Resources','budget_data.csv')
 
 #Declare variables
 total_months = []

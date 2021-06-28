@@ -4,7 +4,7 @@ import os
 import csv
 
 # path to data file
-budget_data_csv = os.path.join("/Users/rosaligonzalez/Desktop/Python/PyPoll/Resources/election_data.csv")
+budget_data_csv = os.path.join('Resources','election_data.csv')
 
 #variables
 total_votes = 0
